@@ -1,6 +1,6 @@
 ---
-name: Cause Template
-subtitle: Aplikasi Layanan Data Pasien
+name: LMS Flask
+subtitle: Learning Management System
 external_url: 'https://github.com/CloudCannon/cause-jekyll-template'
 image_path: /images/clients/cause.jpg
 ---
