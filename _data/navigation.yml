@@ -1,4 +1,6 @@
 links:
+  - name: PythonesiaORG
+    link: 'https://www.pythonesia.org'
   - name: Portfolio
     link: /portfolio/
   - name: Blog
@@ -7,5 +9,3 @@ links:
     link: /about/
   - name: Contact
     link: /contact/
-  - name: PythonesiaORG
-    link: 'https://www.pythonesia.org'
