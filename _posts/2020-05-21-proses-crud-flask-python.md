@@ -16,4 +16,4 @@ Untuk pemrograman Python pada Microframework FLASK proses CRUD database sangat m
 
 Anda dapat menyaksikan video Proses CRUD dengan Python Flask
 
-&nbsp;
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a_1p9gWd3SE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
