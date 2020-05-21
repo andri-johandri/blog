@@ -19,5 +19,5 @@ Anda dapat menyaksikan video Proses CRUD dengan Python Flask
 <iframe src="https://www.youtube.com/embed/a_1p9gWd3SE" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="800" height="600" frameborder="0"></iframe>
 
 Sedangkan untuk mendapat bahan belajar silhkan kunjungi <a href="https://diskusi.pythonesia.org/topic/2-bahan-belajar-crud"> Forum Diskusi Flask</a>.
-Atau <a href="https://drive.google.com/file/d/13TcAgo7ttgVREKDpLLSo2f7tmWAcvIRq/view?usp=sharing"> Dowload Disini </a>. 
+Atau <a href="https://drive.google.com/file/d/13TcAgo7ttgVREKDpLLSo2f7tmWAcvIRq/view?usp=sharing"> Download Disini </a>. 
 
