@@ -13,3 +13,7 @@ Untuk pemrograman Python pada Microframework FLASK proses CRUD database sangat m
 
 1. Aplikasi SqliteBrowser
 2. Aplikasi PyCharm CE ( Community Edition )
+
+Anda dapat menyaksikan video Proses CRUD dengan Python Flask
+
+&nbsp;
